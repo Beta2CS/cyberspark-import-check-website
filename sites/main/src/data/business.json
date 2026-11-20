@@ -1,0 +1,19 @@
+{
+  "name": "CyberSpark Import Check",
+  "description": "A UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search.",
+  "businessType": "ProfessionalService",
+  "contact": {
+    "email": "hananfdar+beta2@gmail.com"
+  },
+  "address": {
+    "locality": "London",
+    "country": "GB"
+  },
+  "areasServed": [
+    "London",
+    "United Kingdom"
+  ],
+  "openingHours": [],
+  "logo": "/media/logo.svg",
+  "social": []
+}
